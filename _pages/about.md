@@ -41,7 +41,7 @@ Shoot me an email if you want to collaborate on a project, have a question, or j
         <span><strong>September 20, 2024: </strong></span> Our paper titled "tRF-BERT: A transformative approach to aspect-based sentiment analysis in the bengali language" was accepted on PLOS ONE Journal.
       </li>
       <li>
-        <span><strong>August 26, 2024: </strong></span> Officially started my PhD at Boston University ✨
+        <span><strong>August 26, 2024: </strong></span> Officially started my PhD at Towson University ✨
       </li>
     </ul>
   </div>
