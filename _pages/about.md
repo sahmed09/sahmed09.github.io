@@ -21,7 +21,7 @@ Shoot me an email if you want to collaborate on a project, have a question, or j
   <div class="card-body">
     <ul>
         <li>
-            <button type="button" class="btn-sm btn-info">PLOS ONE'24</button> <strong> tRF-BERT: A transformative approach to aspect-based sentiment analysis in the bengali language</strong><br>
+            <span class="badge badge-light">PLOS ONE'24</span> <strong> tRF-BERT: A transformative approach to aspect-based sentiment analysis in the bengali language</strong><br>
             <b>Shihab Ahmed</b>, Moythry Manir Samia, Maksuda Haider Sayma, Md. Mohsin Kabir, M. F. Mridha<br>
             <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0308050" class="btn-sm btn-success text-decoration-none"><strong>PDF</strong></a>
             <a href="#" class="btn-sm btn-danger text-decoration-none"><strong>Code and Datasets</strong></a>
