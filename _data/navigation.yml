@@ -10,27 +10,9 @@ main:
     
   - title: "Resume"
     url: /Resume_2024.pdf
-
-  - title: "Publications"
-    url: /publications/
-
-  - title: "Talks"
-    url: /talks/    
-
-  - title: "Teaching"
-    url: /teaching/    
     
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
-    
-  - title: "CV"
+  - title: "About"
     url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
 
 # main:
 #   - title: "Publications"
