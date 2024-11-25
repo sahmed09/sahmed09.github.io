@@ -32,11 +32,9 @@ Work Experience
 * June 2021 - November 2021: Software Engineer
   * GridFlow Pro
 
-# Research Interests
-# ======
-# * August 2024 - Present: Graduate Research Assistant
-  # * Towson University
-  # * Supervisor: Dr. Md Sajidul Islam Sajid
+[//]: # Research Interests
+[//]: # ======
+[//]: # Primary
   
 Skills
 ======
