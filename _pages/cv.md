@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Information Technology, Towson University, 2028 (expected)
+* Ph.D in Information Technology, Towson University, 2028 (Expected)
 * M.Sc. in Information and Communication Technology, Comilla University, 2022
 * B.Sc. in Information and Communication Technology, Comilla University, 2021
 
@@ -32,11 +32,11 @@ Work Experience
 * June 2021 - November 2021: Software Engineer
   * GridFlow Pro
 
-Research Interests
-======
-* August 2024 - Present: Graduate Research Assistant
-  * Towson University
-  * Supervisor: Dr. Md Sajidul Islam Sajid
+# Research Interests
+# ======
+# * August 2024 - Present: Graduate Research Assistant
+  # * Towson University
+  # * Supervisor: Dr. Md Sajidul Islam Sajid
   
 Skills
 ======
@@ -68,18 +68,18 @@ Non-academic Interests
 
 [//]: # Publications
 [//]: # ======
-[//]: #   <ul>{% for post in site.publications reversed %}
-[//]: #     {% include archive-single-cv.html %}
-[//]: #   {% endfor %}</ul>
+[//]: # <ul>{% for post in site.publications reversed %}
+[//]: # {% include archive-single-cv.html %}
+[//]: # {% endfor %}</ul>
   
 [//]: # Talks
 [//]: # ======
-[//]: #   <ul>{% for post in site.talks reversed %}
-[//]: #     {% include archive-single-talk-cv.html  %}
-[//]: #   {% endfor %}</ul>
+[//]: # <ul>{% for post in site.talks reversed %}
+[//]: # {% include archive-single-talk-cv.html  %}
+[//]: # % endfor %}</ul>
   
 [//]: # Teaching
 [//]: # ======
-[//]: #   <ul>{% for post in site.teaching reversed %}
-[//]: #     {% include archive-single-cv.html %}
-[//]: #   {% endfor %}</ul>
+[//]: # <ul>{% for post in site.teaching reversed %}
+[//]: # {% include archive-single-cv.html %}
+[//]: # {% endfor %}</ul>
