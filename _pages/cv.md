@@ -63,7 +63,7 @@ redirect_from:
   </div>
 </div>
 
-<div class="card">
+<div class="mt-3 card">
   <div class="card-header">
     Skills
   </div>
@@ -115,7 +115,7 @@ redirect_from:
   </div>
 </div>
 
-<div class="card">
+<div class="mt-3 card">
   <div class="card-header">
     Non-academic Interests
   </div>
@@ -128,7 +128,7 @@ redirect_from:
   </div>
 </div>
 
-Education
+<!--- Education
 ======
 * Ph.D in Information Technology, Towson University, 2028 (Expected)
 * M.Sc. in Information and Communication Technology, Comilla University, 2022
@@ -181,4 +181,4 @@ Non-academic Interests
 ======
 * Coffee ☕
 * Seas with warm water 🌊
-* Gaming 
+* Gaming -->
