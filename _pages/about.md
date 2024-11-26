@@ -10,9 +10,15 @@ redirect_from:
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
 </head>
 
-Hello there!! I'm Shihab Ahmed, a 1st year Ph.D. student in Information Technology at the Department of Computer & Information Sciences, [Towson University](https://www.towson.edu/fcsm/departments/computerinfosci/). I am advised by [Dr. Md Sajidul Islam Sajid](https://sajid36.github.io/). My research interests broadly cover **System Security** and **Malware Analysis**. My current research work particularly focused at the crossection of **Cyber Deception** and **Generative AI**. I received my Bachelor's and Master's degrees in Information and Communication Technology from [Comilla University]([https://cse.buet.ac.bd/](http://cou.ac.bd/dpict/department-details)) in November, 2021 and November, 2022, respectively. 
+# Hello there!! I'm Shihab Ahmed, a 1st year Ph.D. student in Information Technology at the Department of Computer & Information Sciences, [Towson University](https://www.towson.edu/fcsm/departments/computerinfosci/). I am advised by [Dr. Md Sajidul Islam Sajid](https://sajid36.github.io/). My research interests broadly cover **System Security** and **Malware Analysis**. My current research work particularly focused at the crossection of **Cyber Deception** and **Generative AI**. I received my Bachelor's and Master's degrees in Information and Communication Technology from [Comilla University](http://cou.ac.bd/dpict/department-details) in November, 2021 and November, 2022, respectively. 
 
-Shoot me an email if you want to collaborate on a project, have a question, or just want to say hi~
+# Shoot me an email if you want to collaborate on a project, have a question, or just want to say hi~
+
+<div style="text-align:justify;">
+<p>Hello there!! I'm Shihab Ahmed, a 1st year Ph.D. student in Information Technology at the Department of Computer & Information Sciences, <a href="https://www.towson.edu/fcsm/departments/computerinfosci/" style="text-decoration:none">Towson University</a>. I am advised by <a href="https://sajid36.github.io/" style="text-decoration:none">Dr. Md Sajidul Islam Sajid</a>. My research interests broadly cover **System Security** and **Malware Analysis**. My current research work particularly focused at the crossection of **Cyber Deception** and **Generative AI**. I received my Bachelor's and Master's degrees in Information and Communication Technology from <a href="http://cou.ac.bd/dpict/department-details" style="text-decoration:none">Comilla University</a> in November, 2021 and November, 2022, respectively.</p>
+
+<p>Shoot me an email if you want to collaborate on a project, have a question, or just want to say hi~</p>
+</div>
 
 <div class="card">
   <div class="card-header">
