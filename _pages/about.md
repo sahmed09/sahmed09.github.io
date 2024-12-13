@@ -44,7 +44,10 @@ redirect_from:
   <div class="card-body">
     <ul>
       <li>
-        <span><strong>September 20, 2024: </strong></span> Our paper titled "tRF-BERT: A transformative approach to aspect-based sentiment analysis in the bengali language" was accepted on PLOS ONE Journal.
+        <span><strong>November 30, 2024: </strong></span> Our paper titled "SPADE: Enhancing Adaptive Cyber Deception Strategies with Generative AI and Structured Prompt Engineering" was accepted at <a href="https://ieee-ccwc.org/" style="text-decoration:none">IEEE CCWC 2025</a>.
+      </li>
+      <li>
+        <span><strong>September 20, 2024: </strong></span> Our paper titled "tRF-BERT: A transformative approach to aspect-based sentiment analysis in the bengali language" was accepted in PLOS ONE Journal.
       </li>
       <li>
         <span><strong>August 26, 2024: </strong></span> Officially started my PhD at Towson University ✨
