@@ -26,13 +26,22 @@ redirect_from:
   </div>
   <div class="card-body">
     <ul>
-        <li>
-            <strong> tRF-BERT: A transformative approach to aspect-based sentiment analysis in the bengali language</strong><br>
-            <b>Shihab Ahmed</b>, Moythry Manir Samia, Maksuda Haider Sayma, Md. Mohsin Kabir, M. F. Mridha<br>
-            PLOS ONE Journal 2024<br>
-            <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0308050" class="btn-sm btn-success text-decoration-none"><strong>PDF</strong></a>
-            <a href="#" class="btn-sm btn-danger text-decoration-none"><strong>Code and Datasets</strong></a>
-        </li>
+      <li>
+        <strong> SPADE: Enhancing Adaptive Cyber Deception Strategies with Generative AI and Structured Prompt Engineering</strong><br>
+        <b>Shihab Ahmed</b>, A B M Mohaimenur Rahman, Md Morshed Alam, Md Sajidul Islam Sajid<br>
+        IEEE CCWC 2025<br>
+        Las Vegas, NV, Jan 2025<br>
+        <a href="https://arxiv.org/pdf/2501.00940" class="btn-sm btn-success text-decoration-none"><strong>PDF</strong></a>
+        <a href="https://github.com/sajid36/spade-eval-genai" class="btn-sm btn-danger text-decoration-none"><strong>Datasets</strong></a>
+        <a href="#" class="btn-sm btn-info text-decoration-none"><strong>Presentation</strong></a>
+      </li>
+      <li>
+        <strong> tRF-BERT: A transformative approach to aspect-based sentiment analysis in the bengali language</strong><br>
+        <b>Shihab Ahmed</b>, Moythry Manir Samia, Maksuda Haider Sayma, Md. Mohsin Kabir, M. F. Mridha<br>
+        PLOS ONE Journal, 2024<br>
+        <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0308050" class="btn-sm btn-success text-decoration-none"><strong>PDF</strong></a>
+        <a href="#" class="btn-sm btn-danger text-decoration-none"><strong>Code and Datasets</strong></a>
+      </li>
     </ul>
   </div>
 </div>
@@ -43,6 +52,9 @@ redirect_from:
   </div>
   <div class="card-body">
     <ul>
+      <li>
+        <span><strong>January 08, 2025: </strong></span> Presented my paper "SPADE: Enhancing Adaptive Cyber Deception Strategies with Generative AI and Structured Prompt Engineering" at <a href="https://ieee-ccwc.org/" style="text-decoration:none">IEEE CCWC 2025</a>.
+      </li>
       <li>
         <span><strong>November 30, 2024: </strong></span> Our paper titled "SPADE: Enhancing Adaptive Cyber Deception Strategies with Generative AI and Structured Prompt Engineering" was accepted at <a href="https://ieee-ccwc.org/" style="text-decoration:none">IEEE CCWC 2025</a>.
       </li>
