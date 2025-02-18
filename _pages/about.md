@@ -53,6 +53,12 @@ redirect_from:
   <div class="card-body">
     <ul>
       <li>
+        <span><strong>January 17, 2025: </strong></span> Offered Towson University Spring 2025 Doctoral Student Scholarship.
+      </li>
+      <li>
+        <span><strong>January 08, 2025: </strong></span> Received best presenter award at <a href="https://ieee-ccwc.org/" style="text-decoration:none">IEEE CCWC 2025</a> for presenting my paper "SPADE: Enhancing Adaptive Cyber Deception Strategies with Generative AI and Structured Prompt Engineering".
+      </li>
+      <li>
         <span><strong>January 08, 2025: </strong></span> Presented my paper "SPADE: Enhancing Adaptive Cyber Deception Strategies with Generative AI and Structured Prompt Engineering" at <a href="https://ieee-ccwc.org/" style="text-decoration:none">IEEE CCWC 2025</a>.
       </li>
       <li>
