@@ -15,7 +15,7 @@ redirect_from:
 # Shoot me an email if you want to collaborate on a project, have a question, or just want to say hi~ -->
 
 <div>
-<p>Hello there!! I'm Shihab Ahmed, a 1st year Ph.D. student in Information Technology at the <a href="https://www.towson.edu/fcsm/departments/computerinfosci/" style="text-decoration:none">Department of Computer & Information Sciences</a>, <a href="https://www.towson.edu/" style="text-decoration:none">Towson University</a>. I am advised by <a href="https://sajid36.github.io/" style="text-decoration:none">Dr. Md Sajidul Islam Sajid</a>. My research interests broadly cover <b>System Security</b> and <b>Malware Analysis</b>. My current research work particularly focused at the crossection of <b>Cyber Deception</b> and <b>Generative AI</b>. I received my Bachelor's and Master's degrees in Information and Communication Technology from <a href="http://cou.ac.bd/dpict/department-details" style="text-decoration:none">Comilla University</a> in November, 2021 and November, 2022, respectively.</p>
+<p>Hello there!! I'm Shihab Ahmed, a 2nd year Ph.D. student in Information Technology at the <a href="https://www.towson.edu/fcsm/departments/computerinfosci/" style="text-decoration:none">Department of Computer & Information Sciences</a>, <a href="https://www.towson.edu/" style="text-decoration:none">Towson University</a>. I am advised by <a href="https://sajid36.github.io/" style="text-decoration:none">Dr. Md Sajidul Islam Sajid</a>. My research interests broadly cover <b>System Security</b> and <b>Malware Analysis</b>. My current research work particularly focused at the crossection of <b>Cyber Deception</b> and <b>Generative AI</b>. I received my Bachelor's and Master's degrees in Information and Communication Technology from <a href="http://cou.ac.bd/dpict/department-details" style="text-decoration:none">Comilla University</a> in November, 2021 and November, 2022, respectively.</p>
 
 <p>Shoot me an email if you want to collaborate on a project, have a question, or just want to say hi~</p>
 </div>
@@ -27,13 +27,22 @@ redirect_from:
   <div class="card-body">
     <ul>
       <li>
+        <strong> Secure Development of a Hooking-Based Deception Framework Against Keylogging Techniques</strong><br>
+        Md Sajidul Islam Sajid, <b>Shihab Ahmed</b>, Ryan Sosnoski<br>
+        IEEE Secure Development Conference (SecDev) 2025<br>
+        Purdue University in Indianapolis, Indianapolis, IN, Oct 2025<br>
+        <a href="https://arxiv.org/pdf/2508.04178" class="btn-sm btn-success text-decoration-none"><strong>PDF</strong></a>
+        <a href="https://github.com/sahmed09/HookBasedDeceptionAgainstKeylogging" class="btn-sm btn-danger text-decoration-none"><strong>Datasets</strong></a>
+        <a href="#" class="btn-sm btn-info text-decoration-none"><strong>Presentation (Available Soon)</strong></a>
+      </li>
+      <li>
         <strong> SPADE: Enhancing Adaptive Cyber Deception Strategies with Generative AI and Structured Prompt Engineering</strong><br>
         <b>Shihab Ahmed</b>, A B M Mohaimenur Rahman, Md Morshed Alam, Md Sajidul Islam Sajid<br>
         IEEE CCWC 2025<br>
         Las Vegas, NV, Jan 2025<br>
         <a href="https://arxiv.org/pdf/2501.00940" class="btn-sm btn-success text-decoration-none"><strong>PDF</strong></a>
         <a href="https://github.com/sajid36/spade-eval-genai" class="btn-sm btn-danger text-decoration-none"><strong>Datasets</strong></a>
-        <a href="#" class="btn-sm btn-info text-decoration-none"><strong>Presentation</strong></a>
+        <a href="#" class="btn-sm btn-info text-decoration-none"><strong>Presentation (Available Soon)</strong></a>
       </li>
       <li>
         <strong> tRF-BERT: A transformative approach to aspect-based sentiment analysis in the bengali language</strong><br>
@@ -53,7 +62,16 @@ redirect_from:
   <div class="card-body">
     <ul>
       <li>
-        <span><strong>January 17, 2025: </strong></span> Offered Towson University Spring 2025 Doctoral Student Scholarship.
+        <span><strong>October 15, 2025: </strong></span> Presented our paper "Secure Development of a Hooking-Based Deception Framework Against Keylogging Techniques" at <a href="https://secdev.ieee.org/2025/home/" style="text-decoration:none">IEEE Secure Development Conference (SecDev) 2025</a>.
+      </li>
+      <li>
+        <span><strong>September 11, 2025: </strong></span> Awarded IEEE Secure Development Conference Student Travel Grant.
+      </li>
+      <li>
+        <span><strong>August 12, 2025: </strong></span> Our paper titled "Secure Development of a Hooking-Based Deception Framework Against Keylogging Techniques" was accepted at <a href="https://secdev.ieee.org/2025/home/" style="text-decoration:none">IEEE Secure Development Conference (SecDev) 2025</a>.
+      </li>
+      <li>
+        <span><strong>January 17, 2025: </strong></span> Awarded Towson University Spring 2025 Doctoral Student Scholarship.
       </li>
       <li>
         <span><strong>January 08, 2025: </strong></span> Received best presenter award at <a href="https://ieee-ccwc.org/" style="text-decoration:none">IEEE CCWC 2025</a> for presenting my paper "SPADE: Enhancing Adaptive Cyber Deception Strategies with Generative AI and Structured Prompt Engineering".
