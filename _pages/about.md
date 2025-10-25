@@ -49,7 +49,7 @@ redirect_from:
         <b>Shihab Ahmed</b>, Moythry Manir Samia, Maksuda Haider Sayma, Md. Mohsin Kabir, M. F. Mridha<br>
         PLOS ONE Journal, 2024<br>
         <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0308050" class="btn-sm btn-success text-decoration-none"><strong>PDF</strong></a>
-        <a href="#" class="btn-sm btn-danger text-decoration-none"><strong>Code and Datasets</strong></a>
+        <a href="https://github.com/sahmed09/Bengali-Aspect-Based-Sentiment-Analysis" class="btn-sm btn-danger text-decoration-none"><strong>Code and Datasets</strong></a>
       </li>
     </ul>
   </div>
