@@ -27,25 +27,25 @@ redirect_from:
   <div class="card-body">
     <ul>
       <li>
-        <button type="button" class="btn btn-info">IEEE TPS'26</button>
-        "ORCAGen: Orchestrating Context-Aware Malware Deception with RAG-Guided Generative AI", <b>Shihab Ahmed</b>, Md Sajidul Islam Sajid, Teryl Taylor, Frederico Araujo, Tariqul Islam. <i>2026 IEEE 8th International Conference on Trust, Privacy and Security in Intelligent Systems, and Applications (TPS)</i>, 2026.
+        <button type="button" class="btn-sm btn-info">IEEE TPS'26</button><br>
+        "ORCAGen: Orchestrating Context-Aware Malware Deception with RAG-Guided Generative AI", <b>Shihab Ahmed</b>, Md Sajidul Islam Sajid, Teryl Taylor, Frederico Araujo, Tariqul Islam. <i>2026 IEEE 8th International Conference on Trust, Privacy and Security in Intelligent Systems, and Applications (TPS)</i>, 2026.<br>
         <a href="https://arxiv.org/abs/2610.12415" class="btn-sm btn-success text-decoration-none"><strong>Paper</strong></a>
         <a href="https://github.com/sahmed09/ORCAGen" class="btn-sm btn-danger text-decoration-none"><strong>Code</strong></a>
       </li>
       <li>
-        <button type="button" class="btn btn-info">IEEE SecDev'25</button>
-        "Secure Development of a Hooking-Based Deception Framework Against Keylogging Techniques", Md Sajidul Islam Sajid, <b>Shihab Ahmed</b>, Ryan Sosnoski. <i>2025 IEEE Secure Development Conference (SecDev)</i>, 2025.
+        <button type="button" class="btn-sm btn-info">IEEE SecDev'25</button><br>
+        "Secure Development of a Hooking-Based Deception Framework Against Keylogging Techniques", Md Sajidul Islam Sajid, <b>Shihab Ahmed</b>, Ryan Sosnoski. <i>2025 IEEE Secure Development Conference (SecDev)</i>, 2025.<br>
         <a href="https://doi.org/10.1109/SecDev66745.2025.00019" class="btn-sm btn-success text-decoration-none"><strong>Paper</strong></a>
         <a href="https://github.com/sahmed09/HookBasedDeceptionAgainstKeylogging" class="btn-sm btn-danger text-decoration-none"><strong>Code</strong></a>
       </li>
       <li>
-        <button type="button" class="btn btn-info">IEEE CCWC'25</button>
-        "SPADE: Enhancing Adaptive Cyber Deception Strategies with Generative AI and Structured Prompt Engineering", <b>Shihab Ahmed</b>, ABM Mohaimenur Rahman, Md Morshed Alam, and Md Sajidul Islam Sajid. <i>2025 IEEE 14th Annual Computing and Communication Workshop and Conference (CCWC)</i>, 2025.
+        <button type="button" class="btn-sm btn-info">IEEE CCWC'25</button><br>
+        "SPADE: Enhancing Adaptive Cyber Deception Strategies with Generative AI and Structured Prompt Engineering", <b>Shihab Ahmed</b>, ABM Mohaimenur Rahman, Md Morshed Alam, and Md Sajidul Islam Sajid. <i>2025 IEEE 14th Annual Computing and Communication Workshop and Conference (CCWC)</i>, 2025.<br>
         <a href="https://doi.org/10.1109/CCWC62904.2025.10903748" class="btn-sm btn-success text-decoration-none"><strong>Paper</strong></a>
         <a href="https://github.com/sajid36/spade-eval-genai" class="btn-sm btn-danger text-decoration-none"><strong>Code</strong></a>
       </li>
       <li>
-        <button type="button" class="btn btn-info">PLOS ONE'24</button>
+        <button type="button" class="btn-sm btn-info">PLOS ONE'24</button><br>
         "tRF-BERT: A transformative approach to aspect-based sentiment analysis in the bengali language", <b>Shihab Ahmed</b>, Moythry Manir Samia, Maksuda Haider Sayma, Md. Mohsin Kabir, M. F. Mridha. <i>PLOS ONE Journal</i>, 2024<br>
         <a href="https://doi.org/10.1371/journal.pone.0308050" class="btn-sm btn-success text-decoration-none"><strong>Paper</strong></a>
         <a href="https://github.com/sahmed09/Bengali-Aspect-Based-Sentiment-Analysis" class="btn-sm btn-danger text-decoration-none"><strong>Code and Datasets</strong></a>
