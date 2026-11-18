@@ -27,28 +27,27 @@ redirect_from:
   <div class="card-body">
     <ul>
       <li>
-        <strong> Secure Development of a Hooking-Based Deception Framework Against Keylogging Techniques</strong><br>
-        Md Sajidul Islam Sajid, <b>Shihab Ahmed</b>, Ryan Sosnoski<br>
-        IEEE Secure Development Conference (SecDev) 2025<br>
-        Purdue University in Indianapolis, Indianapolis, IN, Oct 2025<br>
-        <a href="https://arxiv.org/pdf/2508.04178" class="btn-sm btn-success text-decoration-none"><strong>PDF</strong></a>
-        <a href="https://github.com/sahmed09/HookBasedDeceptionAgainstKeylogging" class="btn-sm btn-danger text-decoration-none"><strong>Datasets</strong></a>
-        <a href="#" class="btn-sm btn-info text-decoration-none"><strong>Presentation (Available Soon)</strong></a>
+        <button type="button" class="btn btn-info">IEEE TPS'26</button>
+        "ORCAGen: Orchestrating Context-Aware Malware Deception with RAG-Guided Generative AI", <b>Shihab Ahmed</b>, Md Sajidul Islam Sajid, Teryl Taylor, Frederico Araujo, Tariqul Islam. <i>2026 IEEE 8th International Conference on Trust, Privacy and Security in Intelligent Systems, and Applications (TPS)</i>, 2026.
+        <a href="https://arxiv.org/abs/2610.12415" class="btn-sm btn-success text-decoration-none"><strong>Paper</strong></a>
+        <a href="https://github.com/sahmed09/ORCAGen" class="btn-sm btn-danger text-decoration-none"><strong>Code</strong></a>
       </li>
       <li>
-        <strong> SPADE: Enhancing Adaptive Cyber Deception Strategies with Generative AI and Structured Prompt Engineering</strong><br>
-        <b>Shihab Ahmed</b>, A B M Mohaimenur Rahman, Md Morshed Alam, Md Sajidul Islam Sajid<br>
-        IEEE CCWC 2025<br>
-        Las Vegas, NV, Jan 2025<br>
-        <a href="https://arxiv.org/pdf/2501.00940" class="btn-sm btn-success text-decoration-none"><strong>PDF</strong></a>
-        <a href="https://github.com/sajid36/spade-eval-genai" class="btn-sm btn-danger text-decoration-none"><strong>Datasets</strong></a>
-        <a href="#" class="btn-sm btn-info text-decoration-none"><strong>Presentation (Available Soon)</strong></a>
+        <button type="button" class="btn btn-info">IEEE SecDev'25</button>
+        "Secure Development of a Hooking-Based Deception Framework Against Keylogging Techniques", Md Sajidul Islam Sajid, <b>Shihab Ahmed</b>, Ryan Sosnoski. <i>2025 IEEE Secure Development Conference (SecDev)</i>, 2025.
+        <a href="https://doi.org/10.1109/SecDev66745.2025.00019" class="btn-sm btn-success text-decoration-none"><strong>Paper</strong></a>
+        <a href="https://github.com/sahmed09/HookBasedDeceptionAgainstKeylogging" class="btn-sm btn-danger text-decoration-none"><strong>Code</strong></a>
       </li>
       <li>
-        <strong> tRF-BERT: A transformative approach to aspect-based sentiment analysis in the bengali language</strong><br>
-        <b>Shihab Ahmed</b>, Moythry Manir Samia, Maksuda Haider Sayma, Md. Mohsin Kabir, M. F. Mridha<br>
-        PLOS ONE Journal, 2024<br>
-        <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0308050" class="btn-sm btn-success text-decoration-none"><strong>PDF</strong></a>
+        <button type="button" class="btn btn-info">IEEE CCWC'25</button>
+        "SPADE: Enhancing Adaptive Cyber Deception Strategies with Generative AI and Structured Prompt Engineering", <b>Shihab Ahmed</b>, ABM Mohaimenur Rahman, Md Morshed Alam, and Md Sajidul Islam Sajid. <i>2025 IEEE 14th Annual Computing and Communication Workshop and Conference (CCWC)</i>, 2025.
+        <a href="https://doi.org/10.1109/CCWC62904.2025.10903748" class="btn-sm btn-success text-decoration-none"><strong>Paper</strong></a>
+        <a href="https://github.com/sajid36/spade-eval-genai" class="btn-sm btn-danger text-decoration-none"><strong>Code</strong></a>
+      </li>
+      <li>
+        <button type="button" class="btn btn-info">PLOS ONE'24</button>
+        "tRF-BERT: A transformative approach to aspect-based sentiment analysis in the bengali language", <b>Shihab Ahmed</b>, Moythry Manir Samia, Maksuda Haider Sayma, Md. Mohsin Kabir, M. F. Mridha. <i>PLOS ONE Journal</i>, 2024<br>
+        <a href="https://doi.org/10.1371/journal.pone.0308050" class="btn-sm btn-success text-decoration-none"><strong>Paper</strong></a>
         <a href="https://github.com/sahmed09/Bengali-Aspect-Based-Sentiment-Analysis" class="btn-sm btn-danger text-decoration-none"><strong>Code and Datasets</strong></a>
       </li>
     </ul>
@@ -62,10 +61,19 @@ redirect_from:
   <div class="card-body">
     <ul>
       <li>
+        <span><strong>November 05, 2026: </strong></span> Presented our paper "ORCAGen: Orchestrating Context-Aware Malware Deception with RAG-Guided Generative AI" at <a href="https://tps.ieee-cs.org/2026/" style="text-decoration:none">IEEE TPS 2026</a>.
+      </li>
+      <li>
+        <span><strong>October 19, 2026: </strong></span> Awarded IEEE TPS 2026 Student Travel Grant.
+      </li>
+      <li>
+        <span><strong>August 11, 2026: </strong></span> Our paper titled "ORCAGen: Orchestrating Context-Aware Malware Deception with RAG-Guided Generative AI" was accepted at <a href="https://tps.ieee-cs.org/2026/" style="text-decoration:none">IEEE TPS 2026</a>.
+      </li>
+      <li>
         <span><strong>October 15, 2025: </strong></span> Presented our paper "Secure Development of a Hooking-Based Deception Framework Against Keylogging Techniques" at <a href="https://secdev.ieee.org/2025/home/" style="text-decoration:none">IEEE Secure Development Conference (SecDev) 2025</a>.
       </li>
       <li>
-        <span><strong>September 11, 2025: </strong></span> Awarded IEEE Secure Development Conference Student Travel Grant.
+        <span><strong>September 11, 2025: </strong></span> Awarded IEEE Secure Development Conference 2025 Student Travel Grant.
       </li>
       <li>
         <span><strong>August 12, 2025: </strong></span> Our paper titled "Secure Development of a Hooking-Based Deception Framework Against Keylogging Techniques" was accepted at <a href="https://secdev.ieee.org/2025/home/" style="text-decoration:none">IEEE Secure Development Conference (SecDev) 2025</a>.
